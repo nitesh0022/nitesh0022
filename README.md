@@ -1,5 +1,5 @@
-Hii👋I'm Nitesh Sharma
-✨About Me:I'm Currently Working on Frontend Development
+Hii👋I'm Nitesh Sharma<br>
+✨About Me:I'm Currently Working on Frontend Development<br>
 I'm Currently Learning React js 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
